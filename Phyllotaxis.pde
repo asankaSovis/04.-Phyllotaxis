@@ -47,4 +47,5 @@ void draw() {
   }
   
   N++; // Increment the incrementer
+  //saveFrame("Output\\Flocking-" + frameCount + ".png"); // Saves the current frame. Comment if you don't need
 }
