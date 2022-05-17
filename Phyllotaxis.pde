@@ -19,7 +19,9 @@ void draw() {
   translate(width/2, height/2);
   
   fill((radius % 255), 255, 255);
-  circle(radius * cos(phi), radius * sin(phi), 8);
+  for (int i = 0; i < radius; i += 100) {
+    circle((radius - i) * cos(phi), (radius - i) * sin(phi), 8);
+  }
   
   N++;
 }
