@@ -27,7 +27,7 @@ Check the [Blog Post](https://asanka.hashnode.dev/04-phyllotaxis-painting-the-na
 
 ---
 
-> Note: The drawing procedure is much more entertaining than the output itself. Since the output GIFs ended up too big, I did not include these as GIFs. Instead, I included still images taken after some time in this article. However, you can find GIFs corresponding to the drawing procedure in the 'Example Output' folder of the Github Repository. As always, you'll find much more satisfaction to run the code yourself and see the output that way. 🤗
+> Note: The drawing procedure is much more entertaining than the output itself. Since the output GIFs ended up too big, I did not include these as GIFs. Instead, I included still images taken after some time in this article. However, you can find GIFs corresponding to the drawing procedure in the ['Example Output'](https://github.com/asankaSovis/Phyllotaxis/tree/main/Example%20Output) folder of the Github Repository. As always, you'll find much more satisfaction to run the code yourself and see the output that way. 🤗
 
 ### Find me on social media
 
