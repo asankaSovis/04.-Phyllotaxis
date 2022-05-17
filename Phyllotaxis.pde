@@ -1,4 +1,4 @@
-float ANGLE = 137.5;
+float ANGLE = 137.6;
 int N = 0;
 int C = 6;
 
