@@ -3,7 +3,9 @@
 In this example, we wil create a Phyllotaxis. Phyllotaxis is a common spiral pattern found in
 nature. Everything from sunflowers to cacti are identified to replicate this pattern. Eventhough
 this pattern is quite intricate, it is very simple to implement.
-Check out my blog post: https://asanka-sovis.blogspot.com/2021/11/02-gravity-simulation-making-bouncing.html
+Check out my blog post:
+      https://asanka.hashnode.dev/04-phyllotaxis-painting-the-nature
+      https://asanka-sovis.blogspot.com/2022/05/04-phyllotaxis-painting-nature.html
 Coded by Asanka Akash Sovis
 
 -----------------------------------------------------------------------------*/
