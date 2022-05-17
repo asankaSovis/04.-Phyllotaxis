@@ -8,22 +8,22 @@ Check the [Blog Post](https://asanka.hashnode.dev/04-phyllotaxis-painting-the-na
 ---
 
 ### Phyllotaxis Created with Colours
-[<img src='https://github.com/asankaSovis/Phyllotaxis/blob/main/Example%20Output/Flocking%20Simulaion%20-%20Colourful.png' alt='Phyllotaxis - Colourful'>](https://github.com/asankaSovis/Phyllotaxis/blob/main/Example%20Output/Flocking%20Simulaion%20-%20Colourful.png)
+[<img src='https://github.com/asankaSovis/Phyllotaxis/blob/main/Example%20Output/Phyllotaxis%20-%20Colourful.png' alt='Phyllotaxis - Colourful'>](https://github.com/asankaSovis/Phyllotaxis/blob/main/Example%20Output/Phyllotaxis%20-%20Colourful.png)
 
 ---
 
 ### Simple Phyllotaxis
-[<img src='https://github.com/asankaSovis/Phyllotaxis/blob/main/Example%20Output/Flocking%20Simulation%20-%20Simple.png' alt='Phyllotaxis - Simple'>](https://github.com/asankaSovis/Phyllotaxis/blob/main/Example%20Output/Flocking%20Simulation%20-%20Simple.png)
+[<img src='https://github.com/asankaSovis/Phyllotaxis/blob/main/Example%20Output/Phyllotaxis%20-%20Simple.png' alt='Phyllotaxis - Simple'>](https://github.com/asankaSovis/Phyllotaxis/blob/main/Example%20Output/Phyllotaxis%20-%20Simple.png)
 
 ---
 
 ### Multiple Phyllotaxis Created with Colours
-[<img src='https://github.com/asankaSovis/Phyllotaxis/blob/main/Example%20Output/Flocking%20Simulation%20-%20Repeating.png' alt='Phyllotaxis - Repeating'>](https://github.com/asankaSovis/Phyllotaxis/blob/main/Example%20Output/Flocking%20Simulation%20-%20Repeating.png)
+[<img src='https://github.com/asankaSovis/Phyllotaxis/blob/main/Example%20Output/Phyllotaxis%20-%20Repeating.png' alt='Phyllotaxis - Repeating'>](https://github.com/asankaSovis/Phyllotaxis/blob/main/Example%20Output/Phyllotaxis%20-%20Repeating.png)
 
 ---
 
 ### Phyllotaxis Created with a Different Angle
-[<img src='https://github.com/asankaSovis/Phyllotaxis/blob/main/Example%20Output/Flocking%20Simulation%20-%20Different%20Angle.png' alt='Phyllotaxis - Different Angle'>](https://github.com/asankaSovis/Phyllotaxis/blob/main/Example%20Output/Flocking%20Simulation%20-%20Different%20Angle.png)
+[<img src='https://github.com/asankaSovis/Phyllotaxis/blob/main/Example%20Output/Phyllotaxis%20-%20Different%20Angle.png' alt='Phyllotaxis - Different Angle'>](https://github.com/asankaSovis/Phyllotaxis/blob/main/Example%20Output/Phyllotaxis%20-%20Different%20Angle.png)
 
 ---
 
